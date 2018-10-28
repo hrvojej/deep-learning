@@ -1,4 +1,4 @@
-## Hrvoje Jerkovic - course project files for certification of 
+## Course project files for certification of 
 
 # [Deep Learning Nanodegree (Udacity)](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
